@@ -22,4 +22,19 @@ body {
   background-repeat: no-repeat;
   height: 70vh;
   border-radius: 50px;
+  color: rgb(185, 129, 238);
+  cursor: pointer;
+  flex: 0.5;
+  margin: 10px;
+  position: relative;
+  transition: flex 0.7s ease-in;
+}
+
+.panel h3 {
+  position: absolute;
+  font-size: 24px;
+  bottom: 20px;
+  left: 20px;
+  margin: 0;
+  opacity: 0;
 }
