@@ -10,6 +10,7 @@ body {
   justify-content: center;
   height: 90vh;	
   overflow: hidden;
+  background-color: #abecb6;
 }
 
 .container {
